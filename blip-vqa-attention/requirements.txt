@@ -1,0 +1,24 @@
+# Install torch and torchvision separately for the target CUDA version.
+# See README.md. The original BLIP code was tested with torch 1.10.
+
+# Original BLIP stack
+fairscale==0.4.4
+pycocoevalcap==1.2
+timm==0.4.12
+transformers==4.15.0
+
+# Thesis experiments and analyses (Python 3.9-compatible versions)
+datasets==2.14.7
+huggingface-hub==0.17.3
+matplotlib==3.8.4
+numpy==1.26.4
+opencv-python==4.10.0.84
+pandas==2.2.3
+pillow==10.4.0
+POT==0.9.5
+pyarrow==14.0.2
+pycocotools==2.0.8
+PyYAML==6.0.2
+scikit-learn==1.4.2
+scipy==1.11.4
+

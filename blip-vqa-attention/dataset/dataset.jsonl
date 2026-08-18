@@ -1,0 +1,25 @@
+{"id": "001", "image": "images/desk1.jpg", "question": "What is the color of the calculator?", "answer": "gray", "prompt": "calculator", "correct": "no", "boosted_token": "##tor"} 
+{"id": "002", "image": "images/vending_machine2.jpg", "question": "What is the color of the vending machine in the middle?", "answer": "white", "prompt": "middle vending machine", "correct": "no", "boosted_token": "ve"} 
+{"id": "003", "image": "images/school1.png", "question": "What is the color of the compass?", "answer": "blue", "prompt": "tool compass", "correct": "no", "boosted_token": "compass"} 
+{"id": "004", "image": "images/gpt_room.png", "question": "What is the color of the dumbbell?", "answer": "blue", "prompt": "dumbbell", "correct": "no", "boosted_token": "dumb"} 
+{"id": "005", "image": "images/picnic.jpg", "question": "What is the color of the closed book?", "answer": "blue", "prompt": "blue book", "correct": "no", "boosted_token": "book"} 
+{"id": "006", "image": "images/picnic.jpg", "question": "What color is the book on the blanket?", "answer": "blue", "prompt": "blue book", "correct": "no", "boosted_token": "book"} 
+{"id": "007", "image": "images/desk2.png", "question": "What color is the coffee cup?", "answer": "white", "prompt": "coffee cup", "correct": "no", "boosted_token": "cup"} 
+{"id": "008", "image": "images/desk2.png", "question": "What color is the coffee plate?", "answer": "Red", "prompt": "plate of coffee", "correct": "no", "boosted_token": "plate"} 
+{"id": "009", "image": "images/chatgpt_picnic.png", "question": "What color is the plate of muffins?", "answer": "blue", "prompt": "plate of muffins", "correct": "no", "boosted_token": "plate"} 
+{"id": "010", "image": "images/chatgpt_picnic.png", "question": "What color is the tablecloth?", "answer": "blue", "prompt": "tablecloth", "correct": "no", "boosted_token": "table"} 
+{"id": "011", "image": "images/chatgpt_picnic.png", "question": "What color is the knife?", "answer": "blue", "prompt": "knife", "correct": "no", "boosted_token": "knife"} 
+{"id": "012", "image": "images/chatgpt_picnic2.png", "question": "What color is the bowl of grapes?", "answer": "green", "prompt": "bowl of grapes", "correct": "no", "boosted_token": "bowl"} 
+{"id": "013", "image": "images/chatgpt_picnic2.png", "question": "What color are the grapes in the basket?", "answer": "green", "prompt": "grapes in the basket", "correct": "no", "boosted_token": "grapes"} 
+{"id": "014", "image": "images/chatgpt_picnic2.png", "question": "What color is the basket?", "answer": "pink", "prompt": "basket", "correct": "no", "boosted_token": "basket"} 
+{"id": "015", "image": "images/chatgpt_picnic2.png", "question": "What color is the knife on the plate?", "answer": "pink", "prompt": "knife on the plate", "correct": "no", "boosted_token": "knife"} 
+{"id": "016", "image": "images/chatgpt_picnic2.png", "question": "What is in the yellow bowl?", "answer": "napkins", "prompt": "yellow bowl", "correct": "no", "boosted_token": "bowl"} 
+{"id": "017", "image": "images/chatgpt_picnic2.png", "question": "What is on the blue plate?", "answer": "fork", "prompt": "blue plate", "correct": "no", "boosted_token": "plate"} 
+{"id": "018", "image": "images/chatgpt_picnic2.png", "question": "What is in the mug?", "answer": "coffee", "prompt": "mug", "correct": "yes", "boosted_token": "mug"} 
+{"id": "019", "image": "images/chatgpt_garden.png", "question": "What color is the flower?", "answer": "orange", "prompt": "flower", "correct": "yes", "boosted_token": "flower"} 
+{"id": "020", "image": "images/chatgpt_garden.png", "question": "What color is the watering can?", "answer": "green", "prompt": "watering can", "correct": "yes", "boosted_token": "can"} 
+{"id": "021", "image": "images/chatgpt_garden.png", "question": "What color is the flower pot with the flower?", "answer": "purple", "prompt": "flower pot with the flower", "correct": "yes", "boosted_token": "pot"} 
+{"id": "022", "image": "images/chatgpt_picnic.png", "question": "What color is the plate of burgers?", "answer": "red", "prompt": "plate of burgers", "correct": "yes", "boosted_token": "plate"} 
+{"id": "023", "image": "images/chatgpt_picnic.png", "question": "What is the color of the apple?", "answer": "green", "prompt": "apple", "correct": "yes", "boosted_token": "apple"} 
+{"id": "024", "image": "images/chatgpt_picnic.png", "question": "What color is the juice?", "answer": "orange", "prompt": "juice", "correct": "yes", "boosted_token": "juice"} 
+{"id": "025", "image": "images/chatgpt_picnic2.png", "question": "What color is the spoon?", "answer": "yellow", "prompt": "spoon", "correct": "yes", "boosted_token": "spoon"}
