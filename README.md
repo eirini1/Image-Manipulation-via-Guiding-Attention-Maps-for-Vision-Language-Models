@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/31426071/README.md)
 # BLIP-VQA attention interventions
 
 Reproduction code for the thesis **Image Manipulation via Guiding Attention Maps for Vision-Language Models**. The project studies inference-time BLIP-VQA cross-attention interventions, mask-guided grounding, shared head/layer interventions, robustness, candidate-answer stability, downstream self-attention effects, and evaluation on VQA-HAT and VLMBias.
