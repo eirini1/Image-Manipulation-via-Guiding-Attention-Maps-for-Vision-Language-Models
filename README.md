@@ -10,7 +10,7 @@ Research code and experimental pipelines accompanying the thesis **Image Manipul
 * Extended the evaluation to external benchmarks, including **VQA-HAT** for visual grounding and **VLMBias** for bias-sensitive analysis.
 
 
-Thesis record: [NTUA institutional repository](http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/20127).
+Thesis manuscript: [NTUA institutional repository](https://artemis.ece.ntua.gr/items/14a152fc-563c-4628-bad3-8b84df02032e)
 
 ## What is included
 
